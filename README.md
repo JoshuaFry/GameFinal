@@ -1,7 +1,8 @@
 GAME FINAL
 
+By:<br>
+Joshua Fry <br>
 Brady Adger
-Joshua Fry
 
 This project is a simplified MegaMan2 remake with one level that allows up to two players using an Arduino Joystick Controller. This game was developed using OpenFrameworks with the ofxBox2d addon. 
 
